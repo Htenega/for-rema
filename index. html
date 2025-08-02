@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Happy Birthday Rema!</title>
+    <style>
+        body {
+            background: linear-gradient(to right, #ffb6c1, #ffc0cb);
+            color: #8b0000;
+            text-align: center;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            padding-top: 60px;
+        }
+        h1 {
+            font-size: 3.5em;
+            margin-bottom: 0.3em;
+        }
+        p {
+            font-size: 1.3em;
+            margin: 0.5em;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>🎉 Happy Birthday, Rema! 🎂</h1>
+    <p>Today is all about you — your smile, your heart, your light. 💖</p>
+    <p>May your day be filled with sweet surprises, laughter, and love.</p>
+    <p>You deserve all the happiness in the world. 🌟</p>
+    <p>Always remember: you're appreciated, you're amazing, and you're loved. 💐</p>
+    <p>From: Your friend 🤗</p>
+
+</body>
+</html>
